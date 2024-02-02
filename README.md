@@ -1,5 +1,5 @@
 # CryptoApiPowerBi
-Power Bi that makes API calls to Coinbase API
+Power Bi that makes API calls to Coinbase API. In order to keep refresh time minimized for this Proof of Concept dashboard, large dataset were imported. The .pbix file itself will take some time to download.
 
 #### Purpose: Proof of Concept dashboard for Crypto clients that makes anonymous API calls to Coinbase API. 
 
